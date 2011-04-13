@@ -1,0 +1,5 @@
+obj
+_
+com.*
+.theos
+.debmake
